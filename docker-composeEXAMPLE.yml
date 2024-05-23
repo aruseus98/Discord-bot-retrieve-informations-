@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  discord-bot:
+    build: .
+    container_name: [NOM_DU_CONTAINER] # Donner un nom au container docker
+    volumes:
+      - type: bind
+        source: [REPERTOIRE_SUR_LA_MACHINE_HOTE] # Répertoire ou sont stocks les fichiers sur le NAS
+        target: /app/@anime_en_attente # Modifier le nom dossier répertoire @anime_en_attente si nécessaire (il faudra le créer au préalable)
+    restart: unless-stopped
+

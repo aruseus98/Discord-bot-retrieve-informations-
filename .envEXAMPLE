@@ -1,0 +1,5 @@
+DISCORD_TOKEN=DISCORD_TOKEN_HERE
+ALLDEBRID_API_KEY=your_alldebrid_api_key
+ALLDEBRID_AGENT=your_agent_name
+WATCH_CHANNEL_IDS=ID_CHANNEL1,ID_CHANNEL2,ID_CHANNEL3 #ID des channels que vous voulez que le bot surveille
+USER_ID=YOUR_USER_ID_DISCORD
