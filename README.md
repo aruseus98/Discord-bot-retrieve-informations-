@@ -10,7 +10,7 @@ Create a folder named '@anime_en_attente' or choose another name as needed.
 # 1. Setup the discord bot
 Go to https://discord.com/developers/applications  
 
-IMG  
+![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/button-new-application.png?raw=true)  
 
 Then, name it and everything else.  
 
@@ -18,7 +18,7 @@ Retrieve your discord's bot token and put it in your .env file (use the .envEXAM
 
 Find it under Bot -> RESET TOKEN button
 
-IMG  
+![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/token-bot.png?raw=true)   
 
 Now, you will allow some privileges for the bot to work in the same page where you have reset your token  
 
@@ -27,9 +27,13 @@ Allow the following privileges
 - Server members intent  
 - Message content intent  
 
+![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/bot-privilege.png?raw=true)  
+
 Finally, navigate to the 'OAuth2' category, click on 'BOT', and set the permissions as shown on the screen.
 
-IMG  
+![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/oauth2-bot.png?raw=true)  
+
+![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/bot-permission.png?raw=true)  
 
 All you have to do now is to copy the link to invite your bot on your discord.  
 
