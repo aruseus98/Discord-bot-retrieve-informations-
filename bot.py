@@ -97,7 +97,7 @@ async def on_message(message):
                 logging.info(f'Message from {message.channel.id} contains blacklisted keywords.')
             else:
                 await user.send(f'Lien de téléchargement trouvé: {download_link}')
-                await asyncio.sleep(45)  # Attendre 30 secondes avant de débrider le lien
+                await asyncio.sleep(30)  # Attendre 30 secondes avant de débrider le lien
                 debrid_link_url = await debrid_link(download_link)
                 if debrid_link_url:
                     await asyncio.sleep(15)  # Attendre 15 secondes avant de débrider le lien

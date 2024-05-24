@@ -1,3 +1,5 @@
 .envEXAMPLE
 README.md
 Dockerfile
+img
+docker-composeEXAMPLE.yml
