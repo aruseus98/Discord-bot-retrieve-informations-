@@ -2,6 +2,7 @@
 Discord bot to retrieve informations from messages in channel and send it in DM to an USER
 
 # Requirements
+Docker compose
 API key alldebrid  
 USER_ID discord  
 Discord token  
