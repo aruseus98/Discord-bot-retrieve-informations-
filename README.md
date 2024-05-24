@@ -33,7 +33,7 @@ Finally, navigate to the 'OAuth2' category, click on 'BOT', and set the permissi
 
 ![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/oauth2-bot.png?raw=true)  
 
-![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/bot-permission.png?raw=true)  
+![alt text](https://github.com/aruseus98/Discord-bot-retrieve-informations-/blob/main/img/bot-permission-2.png?raw=true)  
 
 All you have to do now is to copy the link to invite your bot on your discord.  
 
